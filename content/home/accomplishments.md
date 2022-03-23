@@ -7,10 +7,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 32
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -23,29 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://3dexperience.virtualtester.com/#certvalidate
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2015-12-01"
+  description: "The CSWA certification is proof of your SOLIDWORKS® expertise with cutting-edge skills that businesses seek out and reward. The credential id for my certification is `C-RT3E3DG44L`."
+  organization: 'Dassault Systemes'
+  organization_url: https://www.3ds.com/
+  title: CSWA - Mechanical Design
+  url: "https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design"
+
+- certificate_url: https://account.ncees.org/rn/1855235-1058077-9e628c3
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2018-03-12"
+  description: Proof of my knowledge of the Fundamentals of Engineering (FE) for mechanical engineering.
+  organization: 'National Council of Examiners for Engineering and Surveying'
+  organization_url: https://ncees.org/
+  title: FE Mechanical
   url: ""
 
 design:

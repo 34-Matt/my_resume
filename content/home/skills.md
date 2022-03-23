@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: C, C++, Java, Labview, MATLAB, MathCad, Python, R
+  icon: code
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Programming
+- description: C, C++, Java, Labview, MATLAB, MathCad, python, R
+  icon: cubes
   icon_pack: fas
-  name: Photography
+  name: Modeling
+- description: Cornice Brake, CNC Machine, Drill Press, Lathe, Mill, TIG Welder
+  icon: tools
+  icon_pack: fas
+  name: Machine Shop
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

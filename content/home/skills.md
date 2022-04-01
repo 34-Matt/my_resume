@@ -20,7 +20,7 @@ feature:
   icon: code
   icon_pack: fas
   name: Programming
-- description: C, C++, Java, Labview, MATLAB, MathCad, python, R
+- description: Solidworks, Blender
   icon: cubes
   icon_pack: fas
   name: Modeling

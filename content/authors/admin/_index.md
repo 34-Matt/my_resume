@@ -2,6 +2,9 @@
 # Display name
 title: Matthew Stanley
 
+first_name: Matthew
+last_name: Stanley
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -22,6 +25,8 @@ interests:
 - Robotics
 - Teleoperation
 - Automation
+- Chess
+- Golf
 
 # Education to show in About widget
 education:

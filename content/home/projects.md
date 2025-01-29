@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Machine Learning
-    tag: Machine Learning
   - name: Robotics
     tag: Robotics
+  - name: Programming
+    tag: Programming
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
